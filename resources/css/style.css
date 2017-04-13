@@ -1,0 +1,33 @@
+body {
+  background-color: black;
+  text-align: center;
+  font-family: Verdana;
+}
+h1, h2 {
+  color: white;
+}
+a {
+  color: aquamarine;
+  font-size: 16px;
+}
+video {
+  display: block;
+  margin: auto;
+  width: 30%;
+}
+.top-heading {
+  font-size: 50px;
+  font-weight: normal;
+}
+.mid-heading {
+  color: white;
+  font-weight: 300;
+  font-size: 42px;
+}
+.description {
+  font-size: 21px;
+  color: grey;
+}
+.footer {
+  text-align: right;
+}
